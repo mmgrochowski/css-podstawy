@@ -22,3 +22,15 @@ p{
 #moniki > p {
     color: bisque;
 }
+div#moniki >div >div >p {
+    color: aqua;
+    
+} 
+p#selektor-po-id ~ p {
+    
+    color:peru;
+}
+p#selektor-po-id + p {
+    
+    color:magenta;
+}

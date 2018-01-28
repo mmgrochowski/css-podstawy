@@ -8,6 +8,7 @@ div{
 div#kontener{
     background-color: beige;
     padding: 10px;
+    
 }
 
 div#kontener > div#pierwszy {
@@ -25,11 +26,12 @@ div#kontener > div#drugi {
 div#kontener-abs{
     background-color:mediumpurple;
     padding: 10px;
+    position: relative;
 }
 
 div#kontener-abs > div#pierwszy-abs {
     background-color: lightgreen;
-    position: relative;
+    position: absolute;
     top: 40px;
     left: 60px;
 

@@ -1,0 +1,17 @@
+html{
+    font-size: 20ps;
+    background-color: aqua;
+}
+#kontener{
+    font-size: 30px;}
+    #kontener> div {
+        background-color: red;
+        margin-bottom: 15px;
+        color:white;
+}
+
+
+
+#pixele{
+    width: 400px;
+}

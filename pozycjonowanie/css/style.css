@@ -22,4 +22,21 @@ div#kontener > div#drugi {
 
 }
 
+div#kontener-abs{
+    background-color:mediumpurple;
+    padding: 10px;
+}
+
+div#kontener-abs > div#pierwszy-abs {
+    background-color: lightgreen;
+    position: relative;
+    top: 40px;
+    left: 60px;
+
+}
+div#kontener-abs > div#drugi-abs {
+    background-color: palevioletred;
+
+}
+
 

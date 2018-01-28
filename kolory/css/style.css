@@ -1,3 +1,25 @@
 body{
     background-color: aqua;
 }
+
+div{
+    width: 300px;
+    height: 30px;
+    margin: 15px;
+    background-color: antiquewhite;
+}
+#predefiniowane{
+    background-color: lightblue;
+}
+#hexadecymalne{
+    background-color: #45aa24;
+}
+#skrocony-hex{
+    background-color: #f6d;
+}
+#rgb{
+    background-color: rgb(231,34,2);
+}
+#rgba{
+    background-color: rgba(231,34,2,9);
+}

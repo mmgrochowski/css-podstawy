@@ -1,0 +1,8 @@
+body{
+    background-color: lightblue;
+}
+
+div#kontener{
+    background-color: beige;
+    padding:50px 10px;
+}
